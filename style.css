@@ -1,0 +1,29 @@
+body {
+  background-color: #d4d5d8;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #003366;
+  font-family: 'Arial', sans-serif;  /* Added font family */
+}
+
+.bg-box {
+  background-color: #c7e0f9;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  font-family: 'Georgia', serif;  /* Added font family */
+}
+
+.section {
+  margin-bottom: 30px;
+  font-family: 'Verdana', sans-serif;  /* Added font family */
+}
+
+img {
+  border: 3px solid #f6f9ff;
+  border-radius: 8px;
+}
